@@ -1,5 +1,8 @@
 # Sup bitches, It's me Kasper. 
 
+<a href="hhttps://steamcommunity.com/id/dopemenudev/">
+  <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+</a>
 <a href="https://twitter.com/UnknownModder">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,7 +24,7 @@ I'm just another dude on the internet contributing useless shit.
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownModderr&layout=compact" />
 
-*Interested in these Languages*
+**Interested in these Languages**
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&labelColor=444)
 ![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp&labelColor=444)
