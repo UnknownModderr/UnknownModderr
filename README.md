@@ -1,6 +1,6 @@
 # Sup bitches, It's me Kasper. 
 
-<a href="hhttps://steamcommunity.com/id/dopemenudev/">
+<a href="https://steamcommunity.com/id/dopemenudev/">
   <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
 </a>
 <a href="https://twitter.com/UnknownModder">
