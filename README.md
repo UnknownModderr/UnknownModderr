@@ -34,3 +34,4 @@ I'm just another dude on the internet contributing useless shit.
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&labelColor=444)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&labelColor=444)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&labelColor=444)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&labelColor=444)
