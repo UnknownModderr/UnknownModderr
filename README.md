@@ -28,9 +28,9 @@ I'm just another dude on the internet contributing useless shit.
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&labelColor=444)
 ![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp&labelColor=444)
+![Rust](https://img.shields.io/badge/-Rust-brown?style=flat&logo=rust&labelColor=444)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&labelColor=444)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&labelColor=444)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&labelColor=444)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&labelColor=444)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&labelColor=444)
-![Rust](https://img.shields.io/badge/-Rust-brown?style=flat&logo=rust&labelColor=444)
