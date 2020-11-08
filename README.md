@@ -1,4 +1,4 @@
-# Sup bitches, It's me Kasper. 
+# Hey, it's me.  
 
 <a href="https://steamcommunity.com/id/dopemenudev/">
   <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
@@ -16,8 +16,8 @@
 I'm just another dude on the internet contributing useless shit.
 
 ## Interests
-- 💻 Programming
 - 🎨 Designing
+- 💻 Programming
 - 🔎 Game Modding
 
 ### Languages 
