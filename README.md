@@ -14,6 +14,7 @@
 <br />
 
 I'm just another dude on the internet contributing useless shit.
+I mostly work in private repositories
 
 ## Interests
 - 🎨 Designing
